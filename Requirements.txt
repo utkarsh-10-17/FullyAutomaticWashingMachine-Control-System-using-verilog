@@ -1,0 +1,4 @@
+Quartus - II software
+DE10 lite board
+SSDs
+Buttons
